@@ -11,4 +11,7 @@ function myfunc()
     {
         alert("validation successful !")
     }
+    else{
+        alert("validation wrong")
+    }
 }
